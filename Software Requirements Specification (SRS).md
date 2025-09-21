@@ -15,20 +15,15 @@
 | 1. 요구사항 정의 (Requirements description) |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ID | 업무명 (기능)(Function name) | 요약(Summary of the function) | 세부요구사항 설명(서술식)(predicative summary of the function) | 입력변수(Input variables to test the function) | 정상 입력값 partitioning(Normal inputs partitioning) | 예외 입력값 partitioning(Exceptional inputs partitioning) |  | 추적성(Traceability) | 우선순위(Priority)(High, Medium, Low) | 테스트 결과(Test result) |
-|  |  |  |  |  |  |  |  |  |  |  |
-| 학생용 계정 |  |  |  |  |  |  |  |  |  |  |
 | 1 | SNS 회원가입 |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 |  |  |   서비스의 이용자가 되기위한 절차이며, 사용자는 사용에 앞서 소셜 회원가입을 해야 한다.  |  |  |  |  |  |  |  |  |
 | 2 | 홈 회원가입 |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  서비스의 이용자가 되기위한 절차이며, 사용자는 사용에 앞서 홈 회원가입을 해야 한다.   |  |  |  |  |  |  |  |  |
 | 3 | SNS 로그인 |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  서비스를 사용하기 위해 소셜 로그인을 한다.   |  |  |  |  |  |  |  |  |
 | 4 | 홈 로그인 |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |
 |  |  |  서비스를 사용하기 위해 홈 로그인을 한다.   |  |  |  |  |  |  |  |  |
+| 학생용 계정 |  |  |  |  |  |  |  |  |  |  |
 | 5 | 매장 선택 |  |  |  |  |  |  |  |  |  |
 |  |  | 서비스 이용자가 식권을 구매할 매장을 선택한다.  |  |  |  |  |  |  |  |  |
 | 6 | 인기 메뉴 확인 |  |  |  |  |  |  |  |  |  |
