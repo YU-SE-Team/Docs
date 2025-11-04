@@ -1,13 +1,17 @@
 # 더욱 편리한 학식의 시작, Yummy Pass
 
-| **Team Information** | **e-mail** |
-| --- | --- |
-| 차민경 00000000 |  |
-| 김동균 22112027 | kdg23538@yu.ac.kr |
-| 한수빈 22311914 | han04245@yu.ac.kr |
-| 강동윤 22112031 | ehddbs730@yu.ac.kr |
-| 김나연 22311930 | kimny0928@yu.ac.kr |
-| 이연수 22212002 | 22century@yu.ac.kr |
+<img src="img/YP_logo.png" alt="YP 로고" width="300" style="display: block; margin: 0 auto;">
+
+| **Team Information** | **e-mail**         |
+| -------------------- | ------------------ |
+| 차민경 00000000      |                    |
+| 김동균 22112027      | kdg23538@yu.ac.kr  |
+| 한수빈 22311914      | han04245@yu.ac.kr  |
+| 강동윤 22112031      | ehddbs730@yu.ac.kr |
+| 김나연 22311930      | kimny0928@yu.ac.kr |
+| 이연수 22212002      | 22century@yu.ac.kr |
+
+---
 
 ## Revision History
 
