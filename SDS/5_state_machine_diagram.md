@@ -1,3 +1,4 @@
+# State Machine Diagram
 아래의 첨부된 이미지는 “Yummy Pass" 시스템의 State machine diagram을 그린 것이다. 웹사이트 특성을 고려하여, 사용자가 특정 페이지로 이동하거나 모달을 여는 것을 ”상태“라고 보고 diagram을 작성하였다. 
 
 <img src="img/YP_statemachine.jpg" alt="스테이트머신 다이어그램" width="800">

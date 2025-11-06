@@ -41,11 +41,11 @@
 
 ## = Authors for each section =
 
-1. Introduction –  이연수 // 수요일
-2. Use case analysis – <- 프론트 // 목요일
+1. Introduction –  이연수
+2. Use case analysis – 김나연, 이연수
 3. Class diagram – XXX, XXX <- 백엔드 // 목요일
 4. Sequence diagram – XXX, XXX <- 백엔드 // 화요일
-5. State machine diagram – XXX, XXX <- 프론트 // 화요일
+5. State machine diagram – 이연수
 6. User interface prototype - XXX, XXX <- 프론트 // 수요일
 7. Implementation requirements - XXX, XXX <- 각자 사양 정리해서 넣기
-8. Glossary and  References - 이연수 // 수요일
+8. Glossary and  References - 이연수
