@@ -213,7 +213,6 @@ class Description : JWT 토큰의 생성·검증·파싱을 담당하는 서비�
 |                | isExpired(String)               | Boolean | public        | 주어진 토큰의 만료 여부를 확인                              |
 |                | parseUserId(String)             | Long    | public        | 토큰에서 사용자 ID를 추출                                |
 |                | parseTokenVersion(String token) | Integer | public        | 토큰에서 tokenVersion을 추출                          |
-|
 
 Class Diagram #12 : JWTFilter
 
