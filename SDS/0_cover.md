@@ -4,7 +4,7 @@
 
 | **Team Information** | **e-mail**         |
 | -------------------- | ------------------ |
-| 차민경 00000000      |                    |
+| 차민경 22312072      | mingyeong1104@yu.ac.kr  |
 | 김동균 22112027      | kdg23538@yu.ac.kr  |
 | 한수빈 22311914      | han04245@yu.ac.kr  |
 | 강동윤 22112031      | ehddbs730@yu.ac.kr |
@@ -46,6 +46,6 @@
 3. Class diagram – XXX, XXX <- 백엔드 // 목요일
 4. Sequence diagram – XXX, XXX <- 백엔드 // 화요일
 5. State machine diagram – 이연수
-6. User interface prototype - XXX, XXX <- 프론트 // 수요일
-7. Implementation requirements - XXX, XXX <- 각자 사양 정리해서 넣기
-8. Glossary and  References - 이연수
+6. User interface prototype - 김나연, 이연수
+7. Implementation requirements - 김나연, 이연수,차민경
+8. Glossary and  References - 이연수, 차민경
