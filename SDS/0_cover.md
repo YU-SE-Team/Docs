@@ -43,9 +43,23 @@
 
 1. Introduction –  이연수
 2. Use case analysis – 김나연, 이연수
-3. Class diagram – XXX, XXX <- 백엔드 // 목요일
-4. Sequence diagram – XXX, XXX <- 백엔드 // 화요일
+3. Class diagram  
+    
+    Menu(user), Order  관련 : 김동균
+    
+    Ticket, Auth 관련 : 차민경
+    
+    menu(odmin), restaurant, QR 관련 : 한수빈
+    
+4. Sequence diagram
+
+    4.1~4.5 : 차민경
+
+    4.6~4.8 : 김동균
+    
+    4.9~4.13 : 한수빈
+
 5. State machine diagram – 이연수
-6. User interface prototype - 김나연, 이연수
-7. Implementation requirements - 김나연, 이연수,차민경
+6. User interface prototype - 이연수
+7. Implementation requirements - 김나연, 이연수, 차민경 
 8. Glossary and  References - 이연수, 차민경
